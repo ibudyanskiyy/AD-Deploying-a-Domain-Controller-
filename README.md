@@ -37,8 +37,8 @@ Proceed to Install Active Directory Domain Services: <br/>
 <img src="https://i.imgur.com/1V8Zs1P.png" height="80%" width="80%" alt=
 <br />
 <br />
-Open Server Manager & Open AD DS Configuration Wizard (Select: Promote this Server to a Domain Controller"): <br/>
-<img src="blob:https://imgur.com/054ab7af-898e-4397-8c98-e074991f417b height="80%" width="80%" alt=
+Open AD DS Configuration Wizard (Select:Promote this Server to a Domain Controller): <br/>
+<img src="https://imgur.com/054ab7af-898e-4397-8c98-e074991f417b height="80%" width="80%" alt=
 <br />
 <br />
 Add a New Forest & Root Domain Name:  <br/>
